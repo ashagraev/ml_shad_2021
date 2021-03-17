@@ -14,6 +14,7 @@ Official code: https://github.com/TongtongFANG/DIW
 Weighted classification loss:
 ![](https://i.imgur.com/VZAULTO.png)
 
+![](https://i.imgur.com/KFhy4FO.png)
 
 ### Importance Weighting and Variational Inference (2018)
 [arxiv:1808.09034](https://arxiv.org/abs/1808.09034v3)
